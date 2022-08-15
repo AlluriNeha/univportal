@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+ .button  {
+     background-color: white;
+     border: 3px solid #2980b9;
+     color: #2980b9;
+     padding: 5px 10px;
+     text-align: center;
+     display: inline-block;
+     font-size: 15px;
+ }
+ 
+
+.table {
+	border: 1px solid black;
+	cellpadding:1;
+	align: left;
+  	width: 100%;
+  	font-size:20px;
+    font-family:Comic Sans MS,cursive;
+    text-align:left;
+    color:#2980b9	
+ }
+
+.table th {
+	border: 1px solid black;
+ 	text-align:center;
+ 	font-size:30px;
+ 	background:#d0d0d0;
+}
+
+.table td {
+	border: 1px solid black;
+}
+
+
