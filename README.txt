@@ -7,7 +7,7 @@ Project Details: This project "univ"  has been developed using Eclipse. The zip 
 Database Connection Details:
 	Dbname: project
 	Host/Port: localhost:3306
-	User/Password: alluri, alluri123!
+	User/Password: alluri, *
 	
 	
 	
